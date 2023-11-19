@@ -9,15 +9,15 @@
 - [Questions](#Questions)
 
 ## Description
-    easier way to make a readme 
+    building readme easier
 ## Installation
-    github.com/Antoniomj10/readme-generator
+    githib.com/antoniomj10/readme-generator
 ## Usage
-    build readme
+    to build a readme in terminal
 ## License
     This project is licensed under none license
 ## Contribution
-    adding more features
+    using the readme generator and giving feedback
 ## Tests
     node index.js
 ## Questions
